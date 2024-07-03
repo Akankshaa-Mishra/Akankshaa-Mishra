@@ -43,7 +43,7 @@ Hi, I'm Akanksha Mishra!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Akankshaa-Mishra"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/Akankshaa-Mishra"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=SQL&logoColor=black"></a>
     <a href="https://github.com/Akankshaa-Mishra"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
