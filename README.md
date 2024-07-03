@@ -15,7 +15,7 @@ Hi, I'm Akanksha Mishra!
 <br/>
 <p align="center">
 	<a href="https://github.com/Akankshaa-Mishra">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Business+Analytics+Proffesional;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Business+Analytics+Proffesional;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -27,7 +27,7 @@ Hi, I'm Akanksha Mishra!
 🔭 Working on SQL Python & Tableau
 🌟 Main languages: Python, SQL
 🚩 Interested in Data Analysis
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Internship</b> or a new <b>full time opportunity</b>,
 </pre>
 <hr>
 
